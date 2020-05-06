@@ -1,1 +1,1 @@
-A portfolio website based on HTML5, CSS3 and JavaScript
+A portfolio website template based on HTML5, CSS3 and JavaScript
